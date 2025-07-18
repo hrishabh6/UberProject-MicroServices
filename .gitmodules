@@ -1,3 +1,21 @@
 [submodule "EntityService"]
 	path = EntityService
 	url = https://github.com/hrishabh6/EntityService.git
+[submodule "ReviewService"]
+	path = ReviewService
+	url = https://github.com/hrishabh6/UberProject-ReviewService.git
+[submodule "BookingService"]
+	path = BookingService
+	url = https://github.com/hrishabh6/UberProject-BookingService.git
+[submodule "ClientSocketService"]
+	path = ClientSocketService
+	url = https://github.com/hrishabh6/ClientSocketService.git
+[submodule "ServiceRegistery"]
+	path = ServiceRegistery
+	url = https://github.com/hrishabh6/ServiceRegistery.git
+[submodule "LocationService"]
+	path = LocationService
+	url = https://github.com/hrishabh6/UberProject-LocationService.git
+[submodule "AuthService"]
+	path = AuthService
+	url = https://github.com/hrishabh6/Uber-AuthService.git
