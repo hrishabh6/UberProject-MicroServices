@@ -1,0 +1,3 @@
+[submodule "EntityService"]
+	path = EntityService
+	url = https://github.com/hrishabh6/EntityService.git
